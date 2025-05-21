@@ -18,5 +18,5 @@ This GitHub page will feature projects that blend poetry with data
 
 Contact
 
-- Follow me on X: @AugmentedMan
-- Subscribe to my Substack for in depth content.
+- Follow me on X: [@AugmentedMan](https://x.com/AugmentedMan)
+- Subscribe to my Substack for in depth content: [The Augmented's Journey](https://augmentedman.substack.com/)
