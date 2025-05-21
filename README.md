@@ -20,3 +20,5 @@ Contact
 
 - Follow me on X: [@AugmentedMan](https://x.com/AugmentedMan)
 - Subscribe to my Substack for in depth content: [The Augmented's Journey](https://augmentedman.substack.com/)
+
+![The Power of Poetry](images/the_power_of_poetry.webp)
